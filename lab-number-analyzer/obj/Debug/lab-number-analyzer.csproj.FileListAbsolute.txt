@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-number-analyzer\lab-number-analyzer\bin\Debug\lab-number-analyzer.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-number-analyzer\lab-number-analyzer\bin\Debug\lab-number-analyzer.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-number-analyzer\lab-number-analyzer\bin\Debug\lab-number-analyzer.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-number-analyzer\lab-number-analyzer\obj\Debug\lab-number-analyzer.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-number-analyzer\lab-number-analyzer\obj\Debug\lab-number-analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-number-analyzer\lab-number-analyzer\obj\Debug\lab-number-analyzer.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-number-analyzer\lab-number-analyzer\obj\Debug\lab-number-analyzer.pdb
